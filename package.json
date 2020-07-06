@@ -1,0 +1,21 @@
+{
+  "name": "bank-api",
+  "version": "1.0.0",
+  "description": "An API for banker",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/lukec11/bank-api"
+  },
+  "author": "lukec11 <me@lukec.me>",
+  "license": "MIT",
+  "dependencies": {
+    "airtable": "^0.8.1",
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
