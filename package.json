@@ -4,7 +4,7 @@
   "description": "An API for banker",
   "main": "app.js",
   "scripts": {
-    "test": "node app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
